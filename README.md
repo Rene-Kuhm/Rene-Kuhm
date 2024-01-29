@@ -1,22 +1,22 @@
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">René Kuhm</a> 👋</h1>
+<h1 align="center">Hi I am <a href="https://aristi.dev">René Kuhm</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/F8mnbz8.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/RDesign-Castex)
 
-## Sobre mi
+## About me
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar  en [Youtube](https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg) (+39k subs)
-- ✏️ Y por escrito en [Curso Nextjs](https://tecnodespegue.com)
-- 🧑‍🏫 Creador de [TecnoDespegue](https://tecnodespegue.com)
+- ⭐ Github Star ⭐
+- 📲Mobile developer
+- 🎥 I teach you how to program on [Youtube](https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg) (+39k subs)
+- ✏️ And in writing in [Nextjs Course](https://tecnodespegue.com)
+- 🧑‍🏫 Creator of [TecnoDespegue](https://tecnodespegue.com)
 <br>
 
-## Proyectos *bombitas*
+## Projects *bombs*
 <table>
 <tr>
 <td width="50%">
