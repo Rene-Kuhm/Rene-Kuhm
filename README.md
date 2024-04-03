@@ -12,6 +12,10 @@
     <img src="https://i.postimg.cc/fRbhDtZh/6929237-instagram-icon-Photoroom.jpg" alt="YouTube Channel Subscribers" style="width: 40px; height: auto;">
    </a>
 
+   <a href="https://www.facebook.com/TecnoDespegueLive" target="_blank" title="Visit my YouTube Channel">
+    <img src="https://i.postimg.cc/ncHyGjXQ/5365678-fb-facebook-facebook-logo-icon-Photoroom.jpg" alt="YouTube Channel Subscribers" style="width: 40px; height: auto;">
+   </a>
+
    <a href="https://github.com/RDesign-Castex">
     <img src="https://img.shields.io/github/followers/RDesign-Castex?style=social" alt="GitHub followers">
    </a>
