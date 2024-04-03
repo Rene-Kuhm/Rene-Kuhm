@@ -7,9 +7,10 @@
     <a href="https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg">
         <img src="https://i.postimg.cc/XNrYWPjv/317714-video-youtube-icon-Photoroom.jpg" alt="YouTube Channel Subscribers">
     </a>
-    <a href="https://github.com/RDesign-Castex">
-        <img src="https://img.shields.io/github/followers/arisguimera?style=social" alt="GitHub followers">
-    </a>
+   <a href="https://github.com/RDesign-Castex">
+    <img src="https://img.shields.io/github/followers/RDesign-Castex?style=social" alt="GitHub followers">
+   </a>
+
 </div>
 
 ## About Me
