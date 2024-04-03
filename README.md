@@ -8,6 +8,10 @@
     <img src="https://i.postimg.cc/XNrYWPjv/317714-video-youtube-icon-Photoroom.jpg" alt="YouTube Channel Subscribers" style="width: 40px; height: auto;">
    </a>
 
+   <a href="https://www.instagram.com/tecnodespegue/" target="_blank" title="Visit my YouTube Channel">
+    <img src="https://i.postimg.cc/fRbhDtZh/6929237-instagram-icon-Photoroom.jpg" alt="YouTube Channel Subscribers" style="width: 40px; height: auto;">
+   </a>
+
    <a href="https://github.com/RDesign-Castex">
     <img src="https://img.shields.io/github/followers/RDesign-Castex?style=social" alt="GitHub followers">
    </a>
