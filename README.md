@@ -3,9 +3,9 @@
     <img src="https://i.postimg.cc/GhH6mCYN/descargar-Photoroom-1.jpg" alt="René Kuhm" style="border-radius: 50%; max-width: 150px;">
     <p>A passionate Mobile Developer and Educator</p>
 
-    <!-- Social Icons -->
+
     <a href="https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social" alt="YouTube Channel Subscribers">
+        <img src="https://i.postimg.cc/XNrYWPjv/317714-video-youtube-icon-Photoroom.jpg" alt="YouTube Channel Subscribers">
     </a>
     <a href="https://github.com/RDesign-Castex">
         <img src="https://img.shields.io/github/followers/arisguimera?style=social" alt="GitHub followers">
