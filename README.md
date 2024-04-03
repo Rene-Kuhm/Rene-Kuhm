@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hi I am <a href="https://aristi.dev">René Kuhm</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/F8mnbz8.png">
+<img src="https://imgur.com/a/Ha7BUlv">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/RDesign-Castex)
