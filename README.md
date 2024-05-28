@@ -22,6 +22,30 @@
 
 </div>
 
+## Mis Logros
+
+![Logro 1](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/Z4LWQUA2?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 2](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/8APLYLNW?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 3](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/CN2DWA39?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 4](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/HRE5Y3D8?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 5](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/7P58EACZ?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 6](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/PS3AS2R4?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 7](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/NZK62QQF?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 8](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/JCFM9RUT?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 9](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/Z4LWKFZ2?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 10](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/8APLZXXW?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 11](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/UXMTRZR3?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 12](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/JCFMUYCT?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 13](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/W74G2L8N?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 14](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/HRE579E8?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 15](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/3YQS7W9H?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 16](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/UXMTA893?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 17](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/BGW299UD?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 18](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/KL8ZCW2B?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 19](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/8APL2TJW?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 20](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/8APL2U9W?sharingId=4F8E4B6BFCB9C4A8)
+
+
 ## About Me
 
 I'm René Kuhm, a ⭐ **Github Star** ⭐ and dedicated **Mobile Developer**. With a strong focus on quality and innovation, I've been able to share my expertise with a broad audience through my [Youtube channel](https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg) which boasts over 39k subscribers. I specialize in creating dynamic mobile applications and am also the creator of [TecnoDespegue](https://tecnodespegue.com), an educational platform where I teach programming and share my knowledge on mobile development and beyond.
