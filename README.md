@@ -27,24 +27,21 @@
 (![introduction-to-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/a2cba81b-3ba6-4465-8d4c-eaf85bc5001e)
 )
 !![create-git-project](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/d95b1a53-dee8-400d-a691-94af4248e94a)
-[Logro 3](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/CN2DWA39?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 4](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/HRE5Y3D8?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 5](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/7P58EACZ?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 6](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/PS3AS2R4?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 7](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/NZK62QQF?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 8](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/JCFM9RUT?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 9](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/Z4LWKFZ2?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 10](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/8APLZXXW?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 11](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/UXMTRZR3?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 12](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/JCFMUYCT?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 13](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/W74G2L8N?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 14](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/HRE579E8?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 15](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/3YQS7W9H?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 16](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/UXMTA893?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 17](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/BGW299UD?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 18](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/KL8ZCW2B?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 19](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/8APL2TJW?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 20](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/8APL2U9W?sharingId=4F8E4B6BFCB9C4A8)
+
+![collaborate-with-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/f148e7f6-6da4-4cbd-bb41-de9c0cc9e173)
+
+![branch-merge-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/1a6fe03c-8833-41a5-9d91-4220ced312ae)
+
+![intro-to-vc-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/353901a4-0074-42ba-9d98-0d95e6d61d0d)
+
+![introduction-to-github](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/10bf317d-4fc7-4adc-bf7a-88ed8c1c49bb)
+
+![github-introduction-products](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/30047eff-3141-45ae-99dd-729ff4135ca8)
+
+![generic-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/16a25476-90f3-4df4-90e6-f42f3d1b7531)
+
+
+
 
 
 ## About Me
