@@ -24,8 +24,8 @@
 
 ## Mis Logros
 
-![Logro 1](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/Z4LWQUA2?sharingId=4F8E4B6BFCB9C4A8)
-![Logro 2](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/8APLYLNW?sharingId=4F8E4B6BFCB9C4A8)
+![Logro 1](https://ibb.co/9Gb9h7q)
+![Logro 2](https://ibb.co/DG6N9XL)
 ![Logro 3](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/CN2DWA39?sharingId=4F8E4B6BFCB9C4A8)
 ![Logro 4](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/HRE5Y3D8?sharingId=4F8E4B6BFCB9C4A8)
 ![Logro 5](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/7P58EACZ?sharingId=4F8E4B6BFCB9C4A8)
