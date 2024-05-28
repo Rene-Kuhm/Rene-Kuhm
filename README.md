@@ -26,8 +26,8 @@
 
 (![introduction-to-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/a2cba81b-3ba6-4465-8d4c-eaf85bc5001e)
 )
-![Logro 2]()
-![Logro 3](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/CN2DWA39?sharingId=4F8E4B6BFCB9C4A8)
+!![create-git-project](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/d95b1a53-dee8-400d-a691-94af4248e94a)
+[Logro 3](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/CN2DWA39?sharingId=4F8E4B6BFCB9C4A8)
 ![Logro 4](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/HRE5Y3D8?sharingId=4F8E4B6BFCB9C4A8)
 ![Logro 5](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/7P58EACZ?sharingId=4F8E4B6BFCB9C4A8)
 ![Logro 6](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/PS3AS2R4?sharingId=4F8E4B6BFCB9C4A8)
