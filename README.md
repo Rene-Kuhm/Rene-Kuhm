@@ -24,21 +24,11 @@
 
 ## Mis Logros
 
-|[![introduction-to-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/a2cba81b-3ba6-4465-8d4c-eaf85bc5001e)
-|---|---|---| 
-!![create-git-project](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/d95b1a53-dee8-400d-a691-94af4248e94a)
-}
-![collaborate-with-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/f148e7f6-6da4-4cbd-bb41-de9c0cc9e173)
-}
-![branch-merge-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/1a6fe03c-8833-41a5-9d91-4220ced312ae)
-}
-![intro-to-vc-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/353901a4-0074-42ba-9d98-0d95e6d61d0d)
-}
-![introduction-to-github](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/10bf317d-4fc7-4adc-bf7a-88ed8c1c49bb)
-}
-![github-introduction-products](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/30047eff-3141-45ae-99dd-729ff4135ca8)
-}
-![generic-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/16a25476-90f3-4df4-90e6-f42f3d1b7531)
+| ![introduction-to-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/a2cba81b-3ba6-4465-8d4c-eaf85bc5001e) | ![create-git-project](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/d95b1a53-dee8-400d-a691-94af4248e94a) | ![collaborate-with-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/f148e7f6-6da4-4cbd-bb41-de9c0cc9e173) |
+|---|---|---|
+| ![branch-merge-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/1a6fe03c-8833-41a5-9d91-4220ced312ae) | ![intro-to-vc-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/353901a4-0074-42ba-9d98-0d95e6d61d0d) | ![introduction-to-github](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/10bf317d-4fc7-4adc-bf7a-88ed8c1c49bb) |
+| ![github-introduction-products](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/30047eff-3141-45ae-99dd-729ff4135ca8) | ![generic-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/16a25476-90f3-4df4-90e6-f42f3d1b7531) | |
+
 
 
 
