@@ -24,7 +24,7 @@
 
 ## Mis Logros
 
-![Logro 1](![introduction-to-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/a2cba81b-3ba6-4465-8d4c-eaf85bc5001e)
+(![introduction-to-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/a2cba81b-3ba6-4465-8d4c-eaf85bc5001e)
 )
 ![Logro 2]()
 ![Logro 3](https://learn.microsoft.com/api/achievements/share/en-us/RenKuhm-4027/CN2DWA39?sharingId=4F8E4B6BFCB9C4A8)
