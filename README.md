@@ -24,8 +24,8 @@
 
 ## Mis Logros
 
-(![introduction-to-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/a2cba81b-3ba6-4465-8d4c-eaf85bc5001e)
-)
+|[![introduction-to-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/a2cba81b-3ba6-4465-8d4c-eaf85bc5001e)
+|---|---|---| 
 !![create-git-project](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/d95b1a53-dee8-400d-a691-94af4248e94a)
 }
 ![collaborate-with-git-badge](https://github.com/Rene-Kuhm/Rene-Kuhm/assets/157995252/f148e7f6-6da4-4cbd-bb41-de9c0cc9e173)
