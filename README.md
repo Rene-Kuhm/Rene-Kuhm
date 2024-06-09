@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de René Kuhm
-    <img src="https://media.giphy.com/media/03KdjlFrPehgQeNrfg/giphy.gif" /> 
+    <img src="https://media.giphy.com/media/03KdjlFrPehgQeNrfg/giphy.gif" width="1280" height="640"/> 
     <img src="https://i.postimg.cc/GhH6mCYN/descargar-Photoroom-1.jpg" alt="René Kuhm" style="border-radius: 50%; max-width: 150px;">
     <p>A passionate Mobile Developer and Educator</p>
 
