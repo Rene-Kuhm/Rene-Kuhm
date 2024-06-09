@@ -48,3 +48,25 @@ Comunidad dedicada a aprender y compartir conocimientos en programación y tecno
 [![Nueva Intro Para el Canal 💜](https://ytcards.demolab.com/?id=NisElgqtxCI&title=Nueva+Intro+Para+el+Canal+%F0%9F%92%9C&lang=en&timestamp=1716572562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&hover_effect=zoom "Nueva Intro Para el Canal 💜")](https://www.youtube.com/watch?v=NisElgqtxCI)
 <!-- END YOUTUBE-CARDS -->
 
+🔥For 5 years now I have been working as a FullStack programmer, currently I also work in Telephony and Internet at cospec ltd.🔥
+
+### 📞 Contact Me
+
+- 📍 **Location:** Eduardo Castex (LP) Argentina
+- 🌐 **Website:** [www.tecnodespegue.com](https://www.tecnodespegue.com)
+- 📧 **Email:** info@tecnodespegue.com (Si tienes un correo electrónico de contacto, inclúyelo aquí)
+
+### 🕒 Current Local Time
+![Current Time](https://www.worldtimebuddy.com/widget/widget_time.php?location_id=2415462&display_title=Eduardo%20Castex,%20Argentina)
+
+### 🧑 Pronouns
+Don't specify
+
+### 🏢 Company
+Cospec Ltd.
+
+### 🔗 Social Accounts
+- [YouTube](https://www.youtube.com/channel/@Tecnodespegue)
+- [Facebook](https://www.facebook.com/TecnoDespegueLive/)
+- [Twitter](https://twitter.com/REPARO22)
+- [Instagram](https://www.instagram.com/tecnodespegue/)
