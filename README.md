@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> <h1>Bienvenid@ al GitHub de René Kuhm</h1>
     <img src="https://i.postimg.cc/GhH6mCYN/descargar-Photoroom-1.jpg" alt="René Kuhm" style="border-radius: 50%; max-width: 150px;">
     <p>A passionate Mobile Developer and Educator</p>
-
+   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@condorcoders)
 
    <a href="https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg" target="_blank" title="Visit my YouTube Channel">
     <img src="https://i.postimg.cc/XNrYWPjv/317714-video-youtube-icon-Photoroom.jpg" alt="YouTube Channel Subscribers" style="width: 40px; height: auto;">
