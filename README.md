@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi, I'm <a href="https://aristi.dev">René Kuhm</a> 👋</h1>
+    <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de René Kuhm
     <img src="https://i.postimg.cc/GhH6mCYN/descargar-Photoroom-1.jpg" alt="René Kuhm" style="border-radius: 50%; max-width: 150px;">
     <p>A passionate Mobile Developer and Educator</p>
 
