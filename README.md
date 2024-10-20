@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:ff00cc&height=250&section=header&text=Rene%20Kuhm&fontSize=90&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:ff00cc&height=250&section=header&text=René%20Kuhm&fontSize=90&animation=fadeIn&fontColor=fff)
 
 ### Hola, soy Rene Kuhm! 👋
 
