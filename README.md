@@ -1,50 +1,69 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:ff00cc&height=250&section=header&text=René%20Kuhm&fontSize=90&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:ff00c6&height=250&section=header&text=Ren%C3%A9%20Kuhm&fontSize=90&animation=fadeIn&fontColor=fff)
 
-### Hola, soy Rene Kuhm! 👋
+## 👋 Hola, soy René Kuhm
 
-- 🌱 Actualmente estoy aprendiendo **Astro y nuevas tecnologías web**.
-- 🎮 Programador y entusiasta de los videojuegos.
-- 📈 Me encanta explorar nuevas tecnologías y compartir conocimientos en [mi canal de YouTube 'tecnodespegue'](https://www.youtube.com/tecnodespegue) y mi blog ['tdpblog'](https://tdpblog.com.ar).
+Full Stack Developer con 5+ años de experiencia construyendo soluciones web modernas para pymes y emprendimientos. Actualmente combino el desarrollo de aplicaciones (React, Node.js, Astro) con trabajo especializado en infraestructura FTTH en COSPEC Ltd.
 
-### Contacto
+Creo contenido técnico en YouTube y mi blog, compartiendo sobre desarrollo web, automatización y redes.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Rene-Kuhm)
+---
 
-### Lenguajes y Herramientas
+### 🚀 Foco Actual
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
+- 🍐 **Frontend**: React, Astro, HTML5, CSS3 con enfoque en rendimiento y SEO técnico
+- 💾 **Backend**: Node.js, TypeScript, APIs REST
+- 🕇ﺏ **FTTH**: Instalación, mantenimiento y optimización de redes de fibra para ISPs
+- 📊 **Contenido**: Tutoriales en YouTube y blog personal
 
-### GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rene-Kuhm&show_icons=true&theme=radical" alt="Estadísticas de Rene Kuhm" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Kuhm&layout=compact&theme=radical" alt="Lenguajes más usados" width="42%"/>
-</div>
+### 💾 Stack Tecnológico
 
-### Repositorios Destacados
+**Lenguajes & Frameworks:**
+- HTML5, CSS3, JavaScript, TypeScript, React, Astro
+- Node.js, Express
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rene-Kuhm&repo=tdpblog&theme=radical)](https://github.com/Rene-Kuhm/tdpblog)
+**Herramientas & Plataformas:**
+- Docker, Vercel, GitHub, Namecheap
+- n8n, Metricool
 
-### Actividad Reciente en GitHub
+**Especialidades:**
+- Desarrollo web moderno y responsivo
+- Automatización de procesos y workflows
+- Infraestructura FTTH y redes de Internet
+- DNS y gestión de dominios
 
-<!--START_SECTION:activity-->
-1. 🎉 Publicación en el blog ['tdpblog'](https://tdpblog.com.ar) sobre las últimas tecnologías en desarrollo web.
-2. 🛠️ Modificaciones en el README del perfil para hacer más llamativo el perfil de GitHub.
-3. 🎥 Actualización del canal de YouTube con un nuevo video sobre el uso de **Astro**.
-<!--END_SECTION:activity-->
+---
 
-### Cosas Divertidas
+### 👻 Sobre Mí
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rene-Kuhm&theme=radical)
+🚵 **Desarrollador DIY**: Me apasiona el código limpio, la automatización y encontrar soluciones creativas a problemas complejos.
 
-### ¡Gracias por visitar mi perfil!
+🌟 **Contenido**: Comparto aprendizajes en mi canal de YouTube y blog para ayudar a otros desarrolladores y emprendedores.
 
-![Profile views](https://komarev.com/ghpvc/?username=Rene-Kuhm&color=blueviolet)
+🏎ﺏ **Balance**: Cuando no estoy programando, disfruto del ciclismo y la exploración de hardware customizado.
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:0099ff&height=150&section=footer)
+---
 
+### 💋 Conecta Conmigo
+
+- **Email**: contacto@tdpblog.com.ar
+- **YouTube**: [TecnoDespegue](https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg)
+- **Blog**: [TDP Blog](https://tdpblog.com.ar)
+- **Instagram**: [@tecnodespegue](https://instagram.com/tecnodespegue)
+- **LinkedIn**: [René Kuhm](https://linkedin.com/in/rene-kuhm)
+- **GitHub**: [@Rene-Kuhm](https://github.com/Rene-Kuhm)
+
+---
+
+### 👹 Qué Puedo Hacer Por Tu Negocio
+
+🕨ﺏ **Desarrollo Web**: Sitios rápidos, optimizados y con buenas prácticas de SEO técnico.
+
+🤖 **Automatización**: Integraciones de APIs, workflows con n8n y procesos optimizados.
+
+🔍 **Consultoría**: Asesoramiento en infraestructura FTTH y redes de Internet.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rene-Kuhm&show_icons=true&theme=dark)
