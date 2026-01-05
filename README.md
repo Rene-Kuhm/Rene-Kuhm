@@ -5,17 +5,23 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;FTTH+Specialist;Content+Creator;Building+the+Future+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;FTTH+Specialist;Content+Creator;tecnodespegue.com+🌐" alt="Typing SVG" />
 </p>
 
 <!-- Badges de redes sociales -->
 <p align="center">
+  <a href="https://tecnodespegue.com">
+    <img src="https://img.shields.io/badge/🌐_Web-tecnodespegue.com-00D9FF?style=for-the-badge&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://youtube.com/@tecnodespegue">
     <img src="https://img.shields.io/badge/YouTube-TecnoDespegue-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://tdpblog.com.ar">
     <img src="https://img.shields.io/badge/Blog-TDP_Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://twitter.com/REPARO22">
     <img src="https://img.shields.io/badge/Twitter-@REPARO22-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -44,6 +50,8 @@ Actualmente combino el desarrollo de aplicaciones con **React, Node.js y Astro**
 
 Soy creador de contenido técnico en **YouTube** y mi **blog**, donde comparto sobre desarrollo web, automatización, redes y tecnología.
 
+🌐 **Visita mi web:** [tecnodespegue.com](https://tecnodespegue.com)
+
 ### 🎯 ¿Qué hago?
 
 ```javascript
@@ -60,11 +68,12 @@ const reneKuhm = {
         "📊 SEO Técnico & Performance",
         "📝 Content Creation"
     ],
+    website: "https://tecnodespegue.com",
     location: "Eduardo Castex, La Pampa 🇦🇷",
     currentWork: {
         role: "FTTH Specialist",
         company: "COSPEC Ltd.",
-        sideProjects: ["TecnoDespegue Blog", "YouTube Channel"]
+        sideProjects: ["TecnoDespegue", "YouTube Channel", "Tech Blog"]
     },
     passions: ["Clean Code", "Automation", "Teaching", "Cycling 🚴"]
 };
@@ -163,6 +172,20 @@ const reneKuhm = {
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🌐 TecnoDespegue</h3>
+      <div align="center">
+        <a href="https://tecnodespegue.com" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Web-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Web"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </p>
+        <p><strong>Portal principal</strong> de TecnoDespegue. Hub de contenido técnico, tutoriales y recursos para desarrolladores. Integración con YouTube y blog.</p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">🌊 Acuamarina Cerámica</h3>
       <div align="center">
         <a href="https://github.com/Rene-Kuhm/acuamarina-ceramica" target="_blank">
@@ -176,6 +199,8 @@ const reneKuhm = {
         <p><strong>E-commerce moderno</strong> desarrollado con Next.js, TypeScript y TailwindCSS. Sistema de gestión de productos, carrito y checkout optimizado.</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎓 CampusMind SaaS</h3>
       <div align="center">
@@ -190,8 +215,6 @@ const reneKuhm = {
         <p><strong>Plataforma SaaS</strong> para gestión educativa. Sistema completo de administración de cursos, estudiantes y contenido.</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🎨 Studio Agency</h3>
       <div align="center">
@@ -203,19 +226,6 @@ const reneKuhm = {
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
         </p>
         <p><strong>Portfolio corporativo</strong> para agencia creativa. Diseño moderno, animaciones fluidas y optimizado para SEO.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📝 TecnoDespegue Blog</h3>
-      <div align="center">
-        <a href="https://tdpblog.com.ar" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Sitio-00D9FF?style=for-the-badge&logo=wordpress&logoColor=white" alt="Ver Sitio"/>
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
-          <img src="https://img.shields.io/badge/SEO-47A248?style=flat&logo=google&logoColor=white" alt="SEO"/>
-        </p>
-        <p><strong>Blog técnico</strong> con artículos sobre desarrollo web, automatización, FTTH y tecnología. +50 artículos publicados.</p>
       </div>
     </td>
   </tr>
@@ -230,6 +240,12 @@ const reneKuhm = {
 ---
 
 ## 💼 Servicios Profesionales
+
+<div align="center">
+
+### 🌐 Consulta disponibilidad en [tecnodespegue.com](https://tecnodespegue.com)
+
+</div>
 
 <table>
   <tr>
@@ -257,21 +273,31 @@ const reneKuhm = {
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <a href="https://tecnodespegue.com">
+        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="80"/>
+      </a>
+      <h3>🌐 TecnoDespegue</h3>
+      <p>Portal principal con recursos, tutoriales y contenido técnico para desarrolladores. Hub central de todos mis proyectos.</p>
+      <a href="https://tecnodespegue.com">
+        <img src="https://img.shields.io/badge/Visitar_Web-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visitar"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://youtube.com/@tecnodespegue">
         <img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="80"/>
       </a>
-      <h3>YouTube: TecnoDespegue</h3>
+      <h3>📺 YouTube</h3>
       <p>Tutoriales sobre desarrollo web, automatización y redes. Contenido práctico para desarrolladores y emprendedores.</p>
       <a href="https://youtube.com/@tecnodespegue">
         <img src="https://img.shields.io/badge/Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse"/>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://tdpblog.com.ar">
         <img src="https://img.icons8.com/fluency/96/000000/wordpress.png" width="80"/>
       </a>
-      <h3>Blog: TDP</h3>
+      <h3>📝 Blog</h3>
       <p>Artículos técnicos sobre desarrollo web, SEO, automatización y tecnología. Recursos gratuitos y guías paso a paso.</p>
       <a href="https://tdpblog.com.ar">
         <img src="https://img.shields.io/badge/Leer_Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Leer Blog"/>
@@ -289,6 +315,7 @@ interface Developer {
   name: string;
   role: string;
   experience: string;
+  website: string;
   philosophy: string[];
 }
 
@@ -296,6 +323,7 @@ const aboutMe: Developer = {
   name: "René Kuhm",
   role: "Full Stack Developer & FTTH Specialist",
   experience: "5+ años construyendo para la web",
+  website: "https://tecnodespegue.com",
   philosophy: [
     "🧹 Clean code es código mantenible",
     "🚀 La automatización libera tiempo para innovar",
@@ -323,6 +351,9 @@ const aboutMe: Developer = {
 ### 💬 Siempre abierto a nuevos proyectos y colaboraciones
 
 <p>
+  <a href="https://tecnodespegue.com">
+    <img src="https://img.shields.io/badge/🌐_Web-tecnodespegue.com-00D9FF?style=for-the-badge" alt="Website"/>
+  </a>
   <a href="mailto:contacto@tdpblog.com.ar">
     <img src="https://img.shields.io/badge/Email-contacto@tdpblog.com.ar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -378,6 +409,8 @@ const aboutMe: Developer = {
   <img src="https://img.shields.io/badge/From-Argentina%20🇦🇷-38B2AC.svg?style=for-the-badge" alt="From Argentina"/>
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-00D9FF.svg?style=for-the-badge" alt="Open to collaborate"/>
 </p>
+
+### 🌐 [tecnodespegue.com](https://tecnodespegue.com)
 
 **⭐️ Si te gusta mi trabajo, dale una estrella a mis repos!**
 
