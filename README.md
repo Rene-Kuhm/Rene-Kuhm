@@ -1,69 +1,104 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:ff00c6&height=250&section=header&text=Ren%C3%A9%20Kuhm&fontSize=90&animation=fadeIn&fontColor=fff)
+<div align="center">
 
-## 👋 Hola, soy René Kuhm
+# 👋 Hola, soy René Kuhm
 
-Full Stack Developer con 5+ años de experiencia construyendo soluciones web modernas para pymes y emprendimientos. Actualmente combino el desarrollo de aplicaciones (React, Node.js, Astro) con trabajo especializado en infraestructura FTTH en COSPEC Ltd.
+### Full Stack Developer & FTTH Specialist
 
-Creo contenido técnico en YouTube y mi blog, compartiendo sobre desarrollo web, automatización y redes.
+[![Twitter](https://img.shields.io/twitter/follow/REPARO22?style=social)](https://twitter.com/REPARO22)
+[![Blog](https://img.shields.io/badge/Blog-TecnoDespegue-green?style=flat&logo=wordpress)](https://tdpblog.com.ar)
+[![GitHub followers](https://img.shields.io/github/followers/Rene-Kuhm?style=social)](https://github.com/Rene-Kuhm)
 
----
-
-### 🚀 Foco Actual
-
-- 🍐 **Frontend**: React, Astro, HTML5, CSS3 con enfoque en rendimiento y SEO técnico
-- 💾 **Backend**: Node.js, TypeScript, APIs REST
-- 🕇ﺏ **FTTH**: Instalación, mantenimiento y optimización de redes de fibra para ISPs
-- 📊 **Contenido**: Tutoriales en YouTube y blog personal
+</div>
 
 ---
 
-### 💾 Stack Tecnológico
+## 👨‍💻 Sobre mí
 
-**Lenguajes & Frameworks:**
-- HTML5, CSS3, JavaScript, TypeScript, React, Astro
-- Node.js, Express
-
-**Herramientas & Plataformas:**
-- Docker, Vercel, GitHub, Namecheap
-- n8n, Metricool
-
-**Especialidades:**
-- Desarrollo web moderno y responsivo
-- Automatización de procesos y workflows
-- Infraestructura FTTH y redes de Internet
-- DNS y gestión de dominios
+- 🚀 **Full Stack Developer** especializado en React, Next.js y TypeScript
+- 🌐 **Especialista FTTH** en COSPEC Ltd.
+- 📝 **Fundador** de [TecnoDespegue](https://tdpblog.com.ar) - Blog técnico
+- 🇦🇷 Desde **Eduardo Castex, Argentina**
+- 💡 Apasionado por crear soluciones tecnológicas innovadoras
 
 ---
 
-### 👻 Sobre Mí
+## 🛠️ Tech Stack
 
-🚵 **Desarrollador DIY**: Me apasiona el código limpio, la automatización y encontrar soluciones creativas a problemas complejos.
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-🌟 **Contenido**: Comparto aprendizajes en mi canal de YouTube y blog para ayudar a otros desarrolladores y emprendedores.
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-🏎ﺏ **Balance**: Cuando no estoy programando, disfruto del ciclismo y la exploración de hardware customizado.
-
----
-
-### 💋 Conecta Conmigo
-
-- **Email**: contacto@tdpblog.com.ar
-- **YouTube**: [TecnoDespegue](https://www.youtube.com/channel/UCzrSNHUXJk99T-1dcy_0nSg)
-- **Blog**: [TDP Blog](https://tdpblog.com.ar)
-- **Instagram**: [@tecnodespegue](https://instagram.com/tecnodespegue)
-- **LinkedIn**: [René Kuhm](https://linkedin.com/in/rene-kuhm)
-- **GitHub**: [@Rene-Kuhm](https://github.com/Rene-Kuhm)
-
----
-
-### 👹 Qué Puedo Hacer Por Tu Negocio
-
-🕨ﺏ **Desarrollo Web**: Sitios rápidos, optimizados y con buenas prácticas de SEO técnico.
-
-🤖 **Automatización**: Integraciones de APIs, workflows con n8n y procesos optimizados.
-
-🔍 **Consultoría**: Asesoramiento en infraestructura FTTH y redes de Internet.
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rene-Kuhm&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rene-Kuhm&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Kuhm&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rene-Kuhm&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🔥 Proyectos Destacados
+
+### 🌟 [TecnoDespegue Blog](https://tdpblog.com.ar)
+Blog técnico con artículos sobre desarrollo web, fibra óptica y tecnología.
+
+### 🚀 [Acuamarina Cerámica](https://github.com/Rene-Kuhm/acuamarina-ceramica)
+E-commerce moderno desarrollado con Next.js y TypeScript.
+
+### 💼 [CampusMind SaaS](https://github.com/Rene-Kuhm/CampusMind-sass)
+Plataforma SaaS para gestión educativa.
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-@REPARO22-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/REPARO22)
+[![Blog](https://img.shields.io/badge/Blog-TecnoDespegue-success?style=for-the-badge&logo=wordpress&logoColor=white)](https://tdpblog.com.ar)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rene@tdpblog.com.ar)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🎵 Spotify Playing
+
+[![Spotify](https://novatorem-rene-kuhm.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario-spotify)
+
+</div>
+
+---
+
+<div align="center">
+
+**🌟 "Code is poetry, make it beautiful" 🌟**
+
+⭐️ From [Rene-Kuhm](https://github.com/Rene-Kuhm)
+
+</div>
