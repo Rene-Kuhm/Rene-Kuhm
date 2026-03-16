@@ -1,0 +1,189 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    @keyframes rk-float1 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
+    @keyframes rk-float2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-7px)} }
+    @keyframes rk-dash   { to { stroke-dashoffset: -60; } }
+    @keyframes rk-fade   { 0%,100%{opacity:.2} 50%{opacity:.7} }
+    @keyframes rk-glow   { 0%,100%{opacity:.1} 50%{opacity:.3} }
+    @keyframes rk-blink  { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    @keyframes rk-orbit  { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+    @keyframes rk-orbit2 { from{transform:rotate(0deg)} to{transform:rotate(-360deg)} }
+    @keyframes rk-pop    { 0%{opacity:0;transform:scale(.5)} 100%{opacity:1;transform:scale(1)} }
+    @keyframes rk-slide  { from{opacity:0;transform:translateX(-30px)} to{opacity:1;transform:translateX(0)} }
+    .f1 { animation: rk-float1 4s ease-in-out infinite; }
+    .f2 { animation: rk-float2 5.2s ease-in-out infinite .8s; }
+    .f3 { animation: rk-float1 3.7s ease-in-out infinite 1.4s; }
+    .ln { stroke-dasharray:20 10; animation: rk-dash 2.4s linear infinite; }
+    .ln2{ stroke-dasharray:12 8;  animation: rk-dash 3.1s linear infinite .5s; }
+    .pk { animation: rk-fade 3s ease-in-out infinite; }
+    .gw { animation: rk-glow 4s ease-in-out infinite; }
+    .ow { transform-origin:580px 160px; animation:rk-orbit  28s linear infinite; }
+    .ow2{ transform-origin:580px 160px; animation:rk-orbit2 18s linear infinite; }
+    .pp { animation: rk-pop   .7s cubic-bezier(.34,1.56,.64,1) .5s both; }
+    .pp2{ animation: rk-pop   .7s cubic-bezier(.34,1.56,.64,1) .7s both; }
+    .pp3{ animation: rk-pop   .7s cubic-bezier(.34,1.56,.64,1) .9s both; }
+    .sl { animation: rk-slide .6s ease .1s both; }
+    .sl2{ animation: rk-slide .6s ease .3s both; }
+    .sl3{ animation: rk-slide .6s ease .5s both; }
+    .cur{ animation: rk-blink 1s step-end infinite; }
+  </style>
+  <radialGradient id="bg" cx="35%" cy="50%" r="65%">
+    <stop offset="0%" stop-color="#1a0a2e"/>
+    <stop offset="100%" stop-color="#080810"/>
+  </radialGradient>
+  <radialGradient id="g1" cx="50%" cy="30%" r="70%">
+    <stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#6d28d9"/>
+  </radialGradient>
+  <radialGradient id="g2" cx="50%" cy="30%" r="70%">
+    <stop offset="0%" stop-color="#67e8f9"/><stop offset="100%" stop-color="#0891b2"/>
+  </radialGradient>
+  <radialGradient id="g3" cx="50%" cy="30%" r="70%">
+    <stop offset="0%" stop-color="#fcd34d"/><stop offset="100%" stop-color="#d97706"/>
+  </radialGradient>
+  <radialGradient id="g4" cx="50%" cy="30%" r="70%">
+    <stop offset="0%" stop-color="#f9a8d4"/><stop offset="100%" stop-color="#be185d"/>
+  </radialGradient>
+  <radialGradient id="ga" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#7C3AED" stop-opacity=".45"/>
+    <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="gb" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#06B6D4" stop-opacity=".35"/>
+    <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="gc" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#F59E0B" stop-opacity=".28"/>
+    <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="cp"><rect width="900" height="320" rx="18"/></clipPath>
+</defs>
+
+<g clip-path="url(#cp)">
+  <!-- Background -->
+  <rect width="900" height="320" fill="url(#bg)" rx="18"/>
+
+  <!-- Grid dots -->
+  <g fill="#ffffff" opacity=".09">
+    <circle cx="60"  cy="50"  r="1.2"/><circle cx="140" cy="50"  r="1.2"/><circle cx="220" cy="50"  r="1.2"/>
+    <circle cx="300" cy="50"  r="1.2"/><circle cx="380" cy="50"  r="1.2"/><circle cx="460" cy="50"  r="1.2"/>
+    <circle cx="540" cy="50"  r="1.2"/><circle cx="620" cy="50"  r="1.2"/><circle cx="700" cy="50"  r="1.2"/>
+    <circle cx="780" cy="50"  r="1.2"/><circle cx="860" cy="50"  r="1.2"/>
+    <circle cx="60"  cy="130" r="1.2"/><circle cx="140" cy="130" r="1.2"/><circle cx="220" cy="130" r="1.2"/>
+    <circle cx="300" cy="130" r="1.2"/><circle cx="380" cy="130" r="1.2"/><circle cx="460" cy="130" r="1.2"/>
+    <circle cx="540" cy="130" r="1.2"/><circle cx="620" cy="130" r="1.2"/><circle cx="700" cy="130" r="1.2"/>
+    <circle cx="780" cy="130" r="1.2"/><circle cx="860" cy="130" r="1.2"/>
+    <circle cx="60"  cy="210" r="1.2"/><circle cx="140" cy="210" r="1.2"/><circle cx="220" cy="210" r="1.2"/>
+    <circle cx="300" cy="210" r="1.2"/><circle cx="380" cy="210" r="1.2"/><circle cx="460" cy="210" r="1.2"/>
+    <circle cx="540" cy="210" r="1.2"/><circle cx="620" cy="210" r="1.2"/><circle cx="700" cy="210" r="1.2"/>
+    <circle cx="780" cy="210" r="1.2"/><circle cx="860" cy="210" r="1.2"/>
+    <circle cx="60"  cy="290" r="1.2"/><circle cx="140" cy="290" r="1.2"/><circle cx="220" cy="290" r="1.2"/>
+    <circle cx="300" cy="290" r="1.2"/><circle cx="380" cy="290" r="1.2"/><circle cx="460" cy="290" r="1.2"/>
+    <circle cx="540" cy="290" r="1.2"/><circle cx="620" cy="290" r="1.2"/><circle cx="700" cy="290" r="1.2"/>
+    <circle cx="780" cy="290" r="1.2"/><circle cx="860" cy="290" r="1.2"/>
+  </g>
+
+  <!-- Glow blobs -->
+  <ellipse cx="280" cy="160" rx="240" ry="170" fill="url(#ga)" class="gw"/>
+  <ellipse cx="700" cy="90"  rx="160" ry="120" fill="url(#gb)"/>
+  <ellipse cx="800" cy="270" rx="130" ry="100" fill="url(#gc)" class="gw"/>
+
+  <!-- Orbit ring -->
+  <circle cx="580" cy="160" r="115" fill="none" stroke="#7C3AED" stroke-width=".6" stroke-dasharray="5 7" opacity=".35"/>
+
+  <!-- Orbiting nodes -->
+  <g class="ow">
+    <g transform="translate(580,45)">
+      <circle r="24" fill="url(#g2)"/>
+      <text font-family="monospace" font-size="11" fill="#e0f7fa" text-anchor="middle" dominant-baseline="central" font-weight="700">TSX</text>
+    </g>
+  </g>
+  <g class="ow2">
+    <g transform="translate(695,160)">
+      <circle r="20" fill="url(#g1)"/>
+      <text font-family="monospace" font-size="10" fill="#ede9fe" text-anchor="middle" dominant-baseline="central" font-weight="700">n8n</text>
+    </g>
+  </g>
+  <g class="ow">
+    <g transform="translate(580,275)">
+      <circle r="22" fill="url(#g3)"/>
+      <text font-family="monospace" font-size="10" fill="#fef3c7" text-anchor="middle" dominant-baseline="central" font-weight="700">SQL</text>
+    </g>
+  </g>
+  <g class="ow2">
+    <g transform="translate(465,160)">
+      <circle r="18" fill="url(#g4)"/>
+      <text font-family="monospace" font-size="9" fill="#fce7f3" text-anchor="middle" dominant-baseline="central" font-weight="700">AI</text>
+    </g>
+  </g>
+
+  <!-- Floating code cards (left) -->
+  <g class="f1">
+    <rect x="22" y="30" width="148" height="44" rx="8" fill="#1e1b4b" opacity=".92" stroke="#7C3AED" stroke-width="1"/>
+    <text font-family="monospace" font-size="10.5" fill="#a78bfa" x="34" y="49" font-weight="600">const dev = {</text>
+    <text font-family="monospace" font-size="10"   fill="#67e8f9" x="34" y="65">  stack: "React"</text>
+  </g>
+  <g class="f2">
+    <rect x="14" y="108" width="162" height="44" rx="8" fill="#0c1a2e" opacity=".92" stroke="#06B6D4" stroke-width="1"/>
+    <text font-family="monospace" font-size="10" fill="#67e8f9" x="26" y="127" font-weight="600">async build() {</text>
+    <text font-family="monospace" font-size="10" fill="#a78bfa" x="26" y="143">  await deploy()</text>
+  </g>
+  <g class="f3">
+    <rect x="22" y="190" width="150" height="44" rx="8" fill="#1a1200" opacity=".92" stroke="#F59E0B" stroke-width="1"/>
+    <text font-family="monospace" font-size="10" fill="#fcd34d" x="34" y="209" font-weight="600">// 7+ años coding</text>
+    <text font-family="monospace" font-size="10" fill="#d97706" x="34" y="225">// La Pampa 🇦🇷</text>
+  </g>
+
+  <!-- Experience pill (bottom-right) -->
+  <g class="pk">
+    <rect x="800" y="230" width="88" height="42" rx="21" fill="#0a1628" stroke="#06B6D4" stroke-width="1.2"/>
+    <text font-family="monospace" font-size="12" fill="#67e8f9" x="844" y="247" text-anchor="middle" font-weight="700">7+ yrs</text>
+    <text font-family="monospace" font-size="9"  fill="#7dd3fc" x="844" y="263" text-anchor="middle">experiencia</text>
+  </g>
+
+  <!-- === MAIN TEXT BLOCK === -->
+  <!-- Location pill -->
+  <g class="sl">
+    <rect x="200" y="38" width="170" height="26" rx="13" fill="#1e0a3c" stroke="#7C3AED" stroke-width=".9" opacity=".95"/>
+    <text font-family="monospace" font-size="11" fill="#c4b5fd" x="216" y="55">🇦🇷  Eduardo Castex</text>
+  </g>
+
+  <!-- Name -->
+  <text font-family="Georgia,serif" font-size="62" fill="#f8fafc" x="200" y="148" font-weight="700" letter-spacing="-1.5" class="sl2">René Kuhm</text>
+
+  <!-- Accent underline -->
+  <rect x="200" y="155" width="248" height="3.5" rx="1.5" fill="url(#g1)" class="sl2"/>
+
+  <!-- Role -->
+  <text font-family="monospace" font-size="15" fill="#94a3b8" x="202" y="188" class="sl3">Full Stack · FTTH · OS Builder · AI Automation</text>
+
+  <!-- Blinking cursor -->
+  <rect x="635" y="172" width="2.5" height="20" rx="1" fill="#7C3AED" class="cur"/>
+
+  <!-- Tech chips -->
+  <g class="pp">
+    <rect x="200" y="208" width="82" height="24" rx="12" fill="#1e1b4b" stroke="#7C3AED" stroke-width="1.2"/>
+    <text font-family="monospace" font-size="10.5" fill="#a78bfa" x="241" y="224" text-anchor="middle" font-weight="600">React</text>
+  </g>
+  <g class="pp2">
+    <rect x="292" y="208" width="82" height="24" rx="12" fill="#0c1a2e" stroke="#06B6D4" stroke-width="1.2"/>
+    <text font-family="monospace" font-size="10.5" fill="#67e8f9" x="333" y="224" text-anchor="middle" font-weight="600">Next.js</text>
+  </g>
+  <g class="pp3">
+    <rect x="384" y="208" width="88" height="24" rx="12" fill="#1a1200" stroke="#F59E0B" stroke-width="1.2"/>
+    <text font-family="monospace" font-size="10.5" fill="#fcd34d" x="428" y="224" text-anchor="middle" font-weight="600">Linux/OS</text>
+  </g>
+
+  <!-- CTA button -->
+  <g class="pp3">
+    <rect x="200" y="252" width="180" height="40" rx="20" fill="#7C3AED"/>
+    <rect x="200" y="252" width="180" height="40" rx="20" fill="none" stroke="#a78bfa" stroke-width=".9" opacity=".6"/>
+    <text font-family="monospace" font-size="12" fill="#fff" x="290" y="277" text-anchor="middle" font-weight="700">tecnodespegue.com</text>
+  </g>
+
+  <!-- Corner accents -->
+  <path d="M872 12 L892 12 L892 32" fill="none" stroke="#7C3AED" stroke-width="2" opacity=".5" stroke-linecap="round"/>
+  <path d="M8  288 L8  308 L28 308" fill="none" stroke="#06B6D4" stroke-width="2" opacity=".5" stroke-linecap="round"/>
+
+</g>
+</svg>
