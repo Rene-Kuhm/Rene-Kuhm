@@ -4,7 +4,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=680&lines=Full+Stack+Developer+%F0%9F%9A%80;FTTH+%26+Network+Specialist+%F0%9F%8C%90;Custom+OS+Builder+%F0%9F%90%A7+Linux+%7C+Unix+%7C+Windows;Automatización+con+n8n+%26+AI+%F0%9F%A4%96;7%2B+años+construyendo+para+la+web+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=680&lines=Full+Stack+Developer+%F0%9F%9A%80;FTTH+%26+Network+Specialist+%F0%9F%8C%90;AI+Agent+Builder+%F0%9F%A4%96;Automatización+con+n8n+%26+LangChain;7%2B+años+construyendo+para+la+web+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- Redes sociales -->
@@ -45,9 +45,9 @@
 
 ## 👋 ¡Hola! Soy René Kuhm
 
-> **Full Stack Developer & FTTH Specialist** con **7+ años** de experiencia construyendo soluciones web modernas y sistemas personalizados, desde Eduardo Castex, La Pampa 🇦🇷
+> **Full Stack Developer & FTTH Specialist** con **7+ años** de experiencia construyendo soluciones web modernas, agentes de IA y sistemas personalizados, desde Eduardo Castex, La Pampa 🇦🇷
 
-Combino el desarrollo de aplicaciones con **React, Next.js y Astro** con trabajo especializado en **infraestructura FTTH** en COSPEC Ltd. También diseño y construyo **sistemas operativos personalizados** basados en Linux, Unix y Windows, y soy creador de contenido técnico en **YouTube** y mi **blog**.
+Combino el desarrollo de aplicaciones con **React, Next.js y Astro** con trabajo especializado en **infraestructura FTTH** en COSPEC Ltd. Construyo **agentes autónomos con LangChain** e integro IA en productos reales. También soy creador de contenido técnico en **YouTube** y mi **blog**.
 
 🌐 **Visita mi web:** [tecnodespegue.com](https://tecnodespegue.com)
 
@@ -57,23 +57,22 @@ Combino el desarrollo de aplicaciones con **React, Next.js y Astro** con trabajo
 
 ```javascript
 const reneKuhm = {
-  ubicacion: "Eduardo Castex, La Pampa 🇦🇷",
-  rol:       "Full Stack Developer & FTTH Specialist & OS Builder",
+  ubicacion:   "Eduardo Castex, La Pampa 🇦🇷",
+  rol:         "Full Stack Developer & AI Agent Builder & FTTH Specialist",
   experiencia: "7+ años",
-  empresa:   "COSPEC Ltd.",
+  empresa:     "COSPEC Ltd. | TecnoDespegue",
 
   stack: {
-    frontend: ["React", "Next.js", "Astro", "TypeScript", "TailwindCSS"],
-    backend:  ["Node.js", "Express", "Python", "PostgreSQL"],
-    devops:   ["Docker", "Vercel", "GitHub Actions"],
-    sistemas: ["Linux personalizado", "Unix", "Windows custom builds", "NixOS"],
-    ai_tools: ["n8n", "Claude AI", "Automatización de workflows"],
-    redes:    ["FTTH", "Fibra óptica", "ISP consulting", "DNS/Namecheap"],
+    frontend:  ["React", "Next.js", "Astro", "TypeScript", "TailwindCSS", "Flutter"],
+    backend:   ["Node.js", "FastAPI", "Python", "PostgreSQL", "Supabase"],
+    ia:        ["LangChain", "LangGraph", "n8n", "Claude AI", "Agentes autónomos"],
+    devops:    ["Docker", "Vercel", "GitHub Actions", "NixOS", "Linux"],
+    redes:     ["FTTH", "Fibra óptica", "ISP consulting", "DNS"],
   },
 
-  proyectos: ["TecnoDespegue 🌐", "Canal YouTube 📺", "Tech Blog 📝", "Custom OS 🐧"],
-  filosofia: ["Clean Code", "Automatización > Repetición", "Enseñar fortalece"],
-  hobbies:   ["Ciclismo 🚴", "Gaming 🎮", "Hardware DIY 🔧", "Café ☕"],
+  proyectos:  ["TecnoDespegue 🌐", "KineIA 🤖", "GameOptimizer 🎮", "Vaulta 🔐"],
+  filosofia:  ["Clean Code", "Automatización > Repetición", "Enseñar fortalece"],
+  hobbies:    ["Ciclismo 🚴", "Gaming 🎮", "Hardware DIY 🔧", "Café ☕"],
 };
 ```
 
@@ -86,19 +85,19 @@ const reneKuhm = {
     <td width="50%">
 
 ### 💻 Desarrollo Web
-- 🎨 **Frontend**: React, Next.js, Astro, TailwindCSS
-- 🔧 **Backend**: Node.js, TypeScript, REST APIs
+- 🎨 **Frontend**: React, Next.js, Astro, TailwindCSS, Flutter
+- 🔧 **Backend**: Node.js, FastAPI, TypeScript, REST APIs
 - 📦 **Deploy**: Vercel, Docker, GitHub Actions
 - 🎯 **Foco**: Performance, SEO técnico, UX/UI
 
     </td>
     <td width="50%">
 
-### 🐧 Sistemas Operativos Personalizados
-- 🛠️ Builds custom basados en **Linux / Unix**
-- 🪟 Configuraciones optimizadas en **Windows**
-- ⚡ Entornos de desarrollo con **NixOS**
-- 🔒 Hardening, automatización y scripts de sistema
+### 🤖 AI & Agentes Autónomos
+- 🧠 Agentes con **LangChain / LangGraph**
+- 🔄 Workflows con **n8n** y APIs de IA
+- 📡 RAG sobre bases vectoriales (Qdrant, Chroma)
+- ⚡ Self-hosted LLMs en Linux/Docker
 
     </td>
   </tr>
@@ -114,11 +113,11 @@ const reneKuhm = {
     </td>
     <td width="50%">
 
-### 🤖 AI & Automatización
-- 🔄 Workflows con **n8n** y APIs de AI
-- 🌐 Integración de **LLMs** en proyectos web
-- 📊 Automatización de contenido y redes sociales
-- ⚡ Self-hosted tools en **NixOS/Linux**
+### 🐧 Sistemas & DevOps
+- 🛠️ Builds custom basados en **Linux / NixOS**
+- 🪟 Configuraciones optimizadas en **Windows**
+- 🔒 Hardening, automatización y scripts de sistema
+- 🐳 Contenedores Docker para todo
 
     </td>
   </tr>
@@ -128,46 +127,45 @@ const reneKuhm = {
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
+### Frontend & Mobile
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### Backend & Bases de Datos
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### Sistemas Operativos & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Unix-4D4D4D?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
 ### AI & Automatización
 <p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metricool-3B5998?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Sistemas & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -180,7 +178,7 @@ const reneKuhm = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rene-Kuhm&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Rene-Kuhm&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -202,61 +200,64 @@ const reneKuhm = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 TecnoDespegue</h3>
+      <h3 align="center">🌐 TecnoDespegue Landing</h3>
       <div align="center">
         <a href="https://tecnodespegue.com" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Web-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
         </a>
+        <a href="https://github.com/Rene-Kuhm/tecnodespegue-landing" target="_blank">
+          <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Astro_6-FF5D01?style=flat&logo=astro&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
         </p>
-        <p><strong>Portal principal</strong> de TecnoDespegue. Hub de contenido técnico, tutoriales y recursos para desarrolladores. Integrado con YouTube API y blog.</p>
+        <p><strong>Landing profesional</strong> de TecnoDespegue. Desarrollo Fullstack & Automatizaciones con IA. Construido con Astro 6 y Tailwind 4.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎓 CampusMind SaaS</h3>
+      <h3 align="center">🤖 KineIA</h3>
       <div align="center">
-        <a href="https://github.com/Rene-Kuhm/CampusMind-sass" target="_blank">
+        <a href="https://github.com/Rene-Kuhm/KineIA" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Proyecto-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+          <img src="https://img.shields.io/badge/RAG-412991?style=flat&logo=openai&logoColor=white"/>
         </p>
-        <p><strong>Plataforma SaaS</strong> para gestión educativa. Sistema completo de administración de cursos, estudiantes y contenido con autenticación JWT.</p>
+        <p><strong>Asistente de IA</strong> especializado en kinesiología. Basado en currículas universitarias argentinas y protocolos clínicos oficiales.</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌊 Acuamarina Cerámica</h3>
+      <h3 align="center">🎮 GameOptimizer</h3>
       <div align="center">
-        <a href="https://github.com/Rene-Kuhm/acuamarina-ceramica" target="_blank">
+        <a href="https://github.com/Rene-Kuhm/GameOptimizer" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Proyecto-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
         </p>
-        <p><strong>E-commerce moderno</strong> con Next.js, TypeScript y TailwindCSS. Gestión de productos, carrito y checkout optimizado para pymes.</p>
+        <p><strong>Optimizador de sistema</strong> para gaming en Windows. Detecta juegos, aplica perfiles de optimización por proceso y revierte cambios al cerrar.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎨 Studio Agency</h3>
+      <h3 align="center">🔐 Vaulta</h3>
       <div align="center">
-        <a href="https://github.com/Rene-Kuhm/studio-agency" target="_blank">
+        <a href="https://github.com/Rene-Kuhm/Gestor-de-Contrase-as" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Proyecto-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AES--256-4CAF50?style=flat&logoColor=white"/>
         </p>
-        <p><strong>Portfolio corporativo</strong> para agencia creativa. Diseño moderno, animaciones fluidas y arquitectura optimizada para SEO técnico.</p>
+        <p><strong>Gestor de contraseñas</strong> multi-plataforma (Android, iOS, web, desktop). Cifrado AES-256, biometría y persistencia segura con Keychain/Keystore.</p>
       </div>
     </td>
   </tr>
@@ -278,9 +279,9 @@ const reneKuhm = {
 
 </div>
 
-| 💻 Desarrollo Web | 🐧 Custom OS & Linux | 🌐 Consultoría FTTH | 🤖 Automatización con AI |
+| 💻 Desarrollo Web | 🤖 AI & Automatización | 🌐 Consultoría FTTH | 📱 Apps Multi-plataforma |
 |:-:|:-:|:-:|:-:|
-| Sitios y apps web con React, Next.js y Astro. Enfoque en rendimiento, SEO técnico y UX. | Diseño y construcción de sistemas operativos personalizados con Linux, Unix y Windows. | Instalación, mantenimiento y optimización de redes de fibra óptica para ISPs y empresas. | Implementación de workflows con n8n, integración de APIs de IA y automatización de procesos. |
+| Sitios y apps web con React, Next.js y Astro. Enfoque en rendimiento, SEO técnico y UX. | Agentes autónomos con LangChain, workflows con n8n e integración de LLMs en productos reales. | Instalación, mantenimiento y optimización de redes de fibra óptica para ISPs y empresas. | Apps móviles y de escritorio con Flutter/Dart. Android, iOS, web y desktop desde un solo código. |
 
 ---
 
@@ -297,7 +298,7 @@ const reneKuhm = {
     </td>
     <td align="center" width="33%">
       <h3>📺 YouTube</h3>
-      <p>Tutoriales prácticos sobre desarrollo web, automatización con AI, sistemas Linux y tecnología.</p>
+      <p>Tutoriales prácticos sobre desarrollo web, agentes de IA, automatización con n8n y Linux.</p>
       <a href="https://youtube.com/@tecnodespegue">
         <img src="https://img.shields.io/badge/Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
       </a>
@@ -317,11 +318,11 @@ const reneKuhm = {
 ## 🌱 Aprendiendo Actualmente
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter_&_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Self_Hosted_AI-EA4B71?style=for-the-badge&logo=homeassistant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ---
@@ -370,7 +371,7 @@ const reneKuhm = {
 
 **⭐️ Si te gusta mi trabajo, dale una estrella a mis repos!**
 
-<sub>Actualizado: Marzo 2026</sub>
+<sub>Actualizado: Abril 2026</sub>
 
 </div>
 
