@@ -92,7 +92,7 @@ Detrás tengo **10 años en infraestructura FTTH** en COSPEC Ltd. (servicio que 
 
 ## Donde comparto lo que aprendo
 
-- 🎥 **[YouTube — @tecnodespegue](https://youtube.com/@tecnodespegue)** · Tutoriales sobre desarrollo web, agentes de IA y Linux.
+- 🎥 **[YouTube — @tecnodespegue](https://youtube.com/@tecnodespegue)** · Tutoriales sobre desarrollo web, agentes de IA, Flutter y Linux.
 - ✍️ **[Blog — tdpblog.com.ar](https://tdpblog.com.ar)** · Artículos técnicos en español, guías paso a paso.
 - 🌐 **[Agencia — tecnodespegue.com](https://tecnodespegue.com)** · Desarrollo full-stack y automatizaciones con IA para empresas.
 
