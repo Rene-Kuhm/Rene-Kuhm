@@ -1,189 +1,244 @@
-<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <style>
-    @keyframes rk-float1 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
-    @keyframes rk-float2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-7px)} }
-    @keyframes rk-dash   { to { stroke-dashoffset: -60; } }
-    @keyframes rk-fade   { 0%,100%{opacity:.2} 50%{opacity:.7} }
-    @keyframes rk-glow   { 0%,100%{opacity:.1} 50%{opacity:.3} }
-    @keyframes rk-blink  { 0%,49%{opacity:1} 50%,100%{opacity:0} }
-    @keyframes rk-orbit  { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
-    @keyframes rk-orbit2 { from{transform:rotate(0deg)} to{transform:rotate(-360deg)} }
-    @keyframes rk-pop    { 0%{opacity:0;transform:scale(.5)} 100%{opacity:1;transform:scale(1)} }
-    @keyframes rk-slide  { from{opacity:0;transform:translateX(-30px)} to{opacity:1;transform:translateX(0)} }
-    .f1 { animation: rk-float1 4s ease-in-out infinite; }
-    .f2 { animation: rk-float2 5.2s ease-in-out infinite .8s; }
-    .f3 { animation: rk-float1 3.7s ease-in-out infinite 1.4s; }
-    .ln { stroke-dasharray:20 10; animation: rk-dash 2.4s linear infinite; }
-    .ln2{ stroke-dasharray:12 8;  animation: rk-dash 3.1s linear infinite .5s; }
-    .pk { animation: rk-fade 3s ease-in-out infinite; }
-    .gw { animation: rk-glow 4s ease-in-out infinite; }
-    .ow { transform-origin:580px 160px; animation:rk-orbit  28s linear infinite; }
-    .ow2{ transform-origin:580px 160px; animation:rk-orbit2 18s linear infinite; }
-    .pp { animation: rk-pop   .7s cubic-bezier(.34,1.56,.64,1) .5s both; }
-    .pp2{ animation: rk-pop   .7s cubic-bezier(.34,1.56,.64,1) .7s both; }
-    .pp3{ animation: rk-pop   .7s cubic-bezier(.34,1.56,.64,1) .9s both; }
-    .sl { animation: rk-slide .6s ease .1s both; }
-    .sl2{ animation: rk-slide .6s ease .3s both; }
-    .sl3{ animation: rk-slide .6s ease .5s both; }
-    .cur{ animation: rk-blink 1s step-end infinite; }
-  </style>
-  <radialGradient id="bg" cx="35%" cy="50%" r="65%">
-    <stop offset="0%" stop-color="#1a0a2e"/>
-    <stop offset="100%" stop-color="#080810"/>
-  </radialGradient>
-  <radialGradient id="g1" cx="50%" cy="30%" r="70%">
-    <stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#6d28d9"/>
-  </radialGradient>
-  <radialGradient id="g2" cx="50%" cy="30%" r="70%">
-    <stop offset="0%" stop-color="#67e8f9"/><stop offset="100%" stop-color="#0891b2"/>
-  </radialGradient>
-  <radialGradient id="g3" cx="50%" cy="30%" r="70%">
-    <stop offset="0%" stop-color="#fcd34d"/><stop offset="100%" stop-color="#d97706"/>
-  </radialGradient>
-  <radialGradient id="g4" cx="50%" cy="30%" r="70%">
-    <stop offset="0%" stop-color="#f9a8d4"/><stop offset="100%" stop-color="#be185d"/>
-  </radialGradient>
-  <radialGradient id="ga" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#7C3AED" stop-opacity=".45"/>
-    <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
-  </radialGradient>
-  <radialGradient id="gb" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#06B6D4" stop-opacity=".35"/>
-    <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
-  </radialGradient>
-  <radialGradient id="gc" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#F59E0B" stop-opacity=".28"/>
-    <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
-  </radialGradient>
-  <clipPath id="cp"><rect width="900" height="320" rx="18"/></clipPath>
-</defs>
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="René Kuhm — Senior Full-Stack Engineer">
+  <defs>
+    <!-- Background -->
+    <radialGradient id="bg" cx="25%" cy="40%" r="90%">
+      <stop offset="0%" stop-color="#0f1729"/>
+      <stop offset="55%" stop-color="#0a0f1c"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </radialGradient>
 
-<g clip-path="url(#cp)">
-  <!-- Background -->
-  <rect width="900" height="320" fill="url(#bg)" rx="18"/>
+    <!-- Ambient glows -->
+    <radialGradient id="glow-cyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-purple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity=".30"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-amber" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fcd34d" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#fcd34d" stop-opacity="0"/>
+    </radialGradient>
 
-  <!-- Grid dots -->
-  <g fill="#ffffff" opacity=".09">
-    <circle cx="60"  cy="50"  r="1.2"/><circle cx="140" cy="50"  r="1.2"/><circle cx="220" cy="50"  r="1.2"/>
-    <circle cx="300" cy="50"  r="1.2"/><circle cx="380" cy="50"  r="1.2"/><circle cx="460" cy="50"  r="1.2"/>
-    <circle cx="540" cy="50"  r="1.2"/><circle cx="620" cy="50"  r="1.2"/><circle cx="700" cy="50"  r="1.2"/>
-    <circle cx="780" cy="50"  r="1.2"/><circle cx="860" cy="50"  r="1.2"/>
-    <circle cx="60"  cy="130" r="1.2"/><circle cx="140" cy="130" r="1.2"/><circle cx="220" cy="130" r="1.2"/>
-    <circle cx="300" cy="130" r="1.2"/><circle cx="380" cy="130" r="1.2"/><circle cx="460" cy="130" r="1.2"/>
-    <circle cx="540" cy="130" r="1.2"/><circle cx="620" cy="130" r="1.2"/><circle cx="700" cy="130" r="1.2"/>
-    <circle cx="780" cy="130" r="1.2"/><circle cx="860" cy="130" r="1.2"/>
-    <circle cx="60"  cy="210" r="1.2"/><circle cx="140" cy="210" r="1.2"/><circle cx="220" cy="210" r="1.2"/>
-    <circle cx="300" cy="210" r="1.2"/><circle cx="380" cy="210" r="1.2"/><circle cx="460" cy="210" r="1.2"/>
-    <circle cx="540" cy="210" r="1.2"/><circle cx="620" cy="210" r="1.2"/><circle cx="700" cy="210" r="1.2"/>
-    <circle cx="780" cy="210" r="1.2"/><circle cx="860" cy="210" r="1.2"/>
-    <circle cx="60"  cy="290" r="1.2"/><circle cx="140" cy="290" r="1.2"/><circle cx="220" cy="290" r="1.2"/>
-    <circle cx="300" cy="290" r="1.2"/><circle cx="380" cy="290" r="1.2"/><circle cx="460" cy="290" r="1.2"/>
-    <circle cx="540" cy="290" r="1.2"/><circle cx="620" cy="290" r="1.2"/><circle cx="700" cy="290" r="1.2"/>
-    <circle cx="780" cy="290" r="1.2"/><circle cx="860" cy="290" r="1.2"/>
-  </g>
+    <!-- Name gradient -->
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
 
-  <!-- Glow blobs -->
-  <ellipse cx="280" cy="160" rx="240" ry="170" fill="url(#ga)" class="gw"/>
-  <ellipse cx="700" cy="90"  rx="160" ry="120" fill="url(#gb)"/>
-  <ellipse cx="800" cy="270" rx="130" ry="100" fill="url(#gc)" class="gw"/>
+    <linearGradient id="accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
 
-  <!-- Orbit ring -->
-  <circle cx="580" cy="160" r="115" fill="none" stroke="#7C3AED" stroke-width=".6" stroke-dasharray="5 7" opacity=".35"/>
+    <!-- Dot grid pattern -->
+    <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1f2937" opacity=".55"/>
+    </pattern>
 
-  <!-- Orbiting nodes -->
-  <g class="ow">
-    <g transform="translate(580,45)">
-      <circle r="24" fill="url(#g2)"/>
-      <text font-family="monospace" font-size="11" fill="#e0f7fa" text-anchor="middle" dominant-baseline="central" font-weight="700">TSX</text>
+    <!-- Glass card -->
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity=".7"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity=".35"/>
+    </linearGradient>
+
+    <!-- Filter for subtle blur -->
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes blink   { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      @keyframes ping    { 0%{transform:scale(1);opacity:.7} 100%{transform:scale(2.5);opacity:0} }
+      @keyframes pulse-r { 0%,100%{r:6;opacity:1} 50%{r:8;opacity:.6} }
+      @keyframes drift   { 0%,100%{transform:translate(0,0)} 50%{transform:translate(0,-4px)} }
+      @keyframes drift2  { 0%,100%{transform:translate(0,0)} 50%{transform:translate(0,4px)} }
+      @keyframes orbit   { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+      @keyframes flow    { to { stroke-dashoffset: -24 } }
+      @keyframes slide   { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+      @keyframes reveal  { from{stroke-dashoffset:300} to{stroke-dashoffset:0} }
+      @keyframes shimmer { 0%,100%{opacity:.4} 50%{opacity:1} }
+
+      .blink   { animation: blink 1s step-end infinite; }
+      .pulse   { animation: pulse-r 2.4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      .ping    { animation: ping 2s cubic-bezier(0,0,.2,1) infinite; transform-origin: center; transform-box: fill-box; }
+      .drift   { animation: drift 5s ease-in-out infinite; }
+      .drift2  { animation: drift2 5s ease-in-out infinite .8s; }
+      .orbit   { transform-origin: 980px 170px; animation: orbit 30s linear infinite; }
+      .flow    { stroke-dasharray: 6 6; animation: flow 2.4s linear infinite; }
+      .reveal-1 { animation: slide .55s ease .05s both; }
+      .reveal-2 { animation: slide .55s ease .20s both; }
+      .reveal-3 { animation: slide .55s ease .40s both; }
+      .reveal-4 { animation: slide .55s ease .60s both; }
+      .reveal-5 { animation: slide .55s ease .80s both; }
+      .draw     { stroke-dasharray: 300; animation: reveal 1.6s ease-out .3s both; }
+      .shim     { animation: shimmer 4s ease-in-out infinite; }
+    </style>
+
+    <clipPath id="cp"><rect width="1200" height="340" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cp)">
+    <!-- Layered background -->
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+
+    <!-- Ambient glows -->
+    <ellipse cx="180" cy="140" rx="320" ry="180" fill="url(#glow-cyan)"/>
+    <ellipse cx="980" cy="200" rx="300" ry="200" fill="url(#glow-purple)"/>
+    <ellipse cx="600" cy="320" rx="400" ry="120" fill="url(#glow-amber)"/>
+
+    <!-- Top monogram badge -->
+    <g class="reveal-1" transform="translate(60, 50)">
+      <rect width="44" height="44" rx="10" fill="url(#card-bg)" stroke="#1f2937" stroke-width="1"/>
+      <text x="22" y="29" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="800" fill="#00D9FF" text-anchor="middle">RK</text>
     </g>
-  </g>
-  <g class="ow2">
-    <g transform="translate(695,160)">
-      <circle r="20" fill="url(#g1)"/>
-      <text font-family="monospace" font-size="10" fill="#ede9fe" text-anchor="middle" dominant-baseline="central" font-weight="700">n8n</text>
+
+    <!-- Status pill -->
+    <g class="reveal-2" transform="translate(118, 56)">
+      <rect width="200" height="32" rx="16" fill="url(#card-bg)" stroke="#1f2937" stroke-width="1"/>
+      <g transform="translate(16, 16)">
+        <circle r="6" fill="#22c55e" class="ping"/>
+        <circle r="4" fill="#22c55e" class="pulse"/>
+      </g>
+      <text x="34" y="20" font-family="JetBrains Mono, ui-monospace, monospace" font-size="11" fill="#c9d1d9" letter-spacing="1.2">AVAILABLE FOR WORK</text>
     </g>
-  </g>
-  <g class="ow">
-    <g transform="translate(580,275)">
-      <circle r="22" fill="url(#g3)"/>
-      <text font-family="monospace" font-size="10" fill="#fef3c7" text-anchor="middle" dominant-baseline="central" font-weight="700">SQL</text>
+
+    <!-- Top-right meta -->
+    <g class="reveal-2" transform="translate(900, 56)">
+      <rect width="240" height="32" rx="16" fill="url(#card-bg)" stroke="#1f2937" stroke-width="1"/>
+      <text x="20" y="20" font-family="JetBrains Mono, ui-monospace, monospace" font-size="11" fill="#6b7280" letter-spacing="1">
+        LA PAMPA · ARGENTINA · UTC-3
+      </text>
     </g>
-  </g>
-  <g class="ow2">
-    <g transform="translate(465,160)">
-      <circle r="18" fill="url(#g4)"/>
-      <text font-family="monospace" font-size="9" fill="#fce7f3" text-anchor="middle" dominant-baseline="central" font-weight="700">AI</text>
+
+    <!-- Big name -->
+    <g class="reveal-3">
+      <text x="60" y="170" font-family="Inter, system-ui, sans-serif" font-size="78" font-weight="800" fill="url(#name-grad)" letter-spacing="-2.5">René Kuhm</text>
+      <rect x="450" y="115" width="3" height="60" fill="#00D9FF" class="blink"/>
     </g>
+
+    <!-- Accent underline -->
+    <line x1="60" y1="186" x2="360" y2="186" stroke="url(#accent-line)" stroke-width="2" class="draw"/>
+
+    <!-- Role line -->
+    <g class="reveal-4">
+      <text x="60" y="218" font-family="JetBrains Mono, ui-monospace, monospace" font-size="16" fill="#c9d1d9" letter-spacing="0.3">
+        <tspan fill="#00D9FF">▸</tspan> Senior Full-Stack Engineer
+        <tspan fill="#374151"> · </tspan>
+        <tspan fill="#a78bfa">AI Agent Builder</tspan>
+        <tspan fill="#374151"> · </tspan>
+        <tspan fill="#fcd34d">FTTH Specialist</tspan>
+      </text>
+    </g>
+
+    <!-- Tag pills -->
+    <g class="reveal-5" transform="translate(60, 245)">
+      <g transform="translate(0, 0)">
+        <rect width="138" height="32" rx="8" fill="#0d1117" stroke="#a78bfa" stroke-width="1" opacity=".9"/>
+        <circle cx="14" cy="16" r="3" fill="#a78bfa"/>
+        <text x="26" y="20" font-family="JetBrains Mono, monospace" font-size="11" fill="#c4b5fd" letter-spacing="0.5">LangChain · RAG</text>
+      </g>
+      <g transform="translate(150, 0)">
+        <rect width="160" height="32" rx="8" fill="#0d1117" stroke="#00D9FF" stroke-width="1" opacity=".9"/>
+        <circle cx="14" cy="16" r="3" fill="#00D9FF"/>
+        <text x="26" y="20" font-family="JetBrains Mono, monospace" font-size="11" fill="#67e8f9" letter-spacing="0.5">Next.js · Astro · Flutter</text>
+      </g>
+      <g transform="translate(322, 0)">
+        <rect width="142" height="32" rx="8" fill="#0d1117" stroke="#fcd34d" stroke-width="1" opacity=".9"/>
+        <circle cx="14" cy="16" r="3" fill="#fcd34d"/>
+        <text x="26" y="20" font-family="JetBrains Mono, monospace" font-size="11" fill="#fde68a" letter-spacing="0.5">FTTH · Linux · NixOS</text>
+      </g>
+    </g>
+
+    <!-- Bottom command-line style status -->
+    <g class="reveal-5" transform="translate(60, 305)">
+      <text font-family="JetBrains Mono, monospace" font-size="11" fill="#6b7280" letter-spacing="0.5">
+        <tspan fill="#22c55e">$</tspan>
+        <tspan> rk </tspan>
+        <tspan fill="#00D9FF">--status</tspan>
+        <tspan> </tspan>
+        <tspan fill="#9ca3af">→ shipping AI agents · 7+ years · open to collaborations</tspan>
+      </text>
+    </g>
+
+    <!-- ── RIGHT SIDE: Architecture diagram ─────────────────────── -->
+
+    <!-- Orbit ring (decorative) -->
+    <g class="orbit" stroke="#1f2937" stroke-width="1" fill="none">
+      <circle cx="980" cy="170" r="135" stroke-dasharray="4 6" opacity=".45"/>
+    </g>
+
+    <!-- Connection lines (from center hub to each node) -->
+    <g fill="none" stroke-width="1.5" opacity=".55">
+      <line x1="980" y1="170" x2="870" y2="100" stroke="#00D9FF" class="flow"/>
+      <line x1="980" y1="170" x2="1090" y2="100" stroke="#a78bfa" class="flow"/>
+      <line x1="980" y1="170" x2="850" y2="200" stroke="#fcd34d" class="flow"/>
+      <line x1="980" y1="170" x2="1110" y2="200" stroke="#22c55e" class="flow"/>
+      <line x1="980" y1="170" x2="920" y2="270" stroke="#f87171" class="flow"/>
+      <line x1="980" y1="170" x2="1040" y2="270" stroke="#06b6d4" class="flow"/>
+    </g>
+
+    <!-- Outer nodes -->
+    <g class="drift">
+      <g transform="translate(870, 100)">
+        <circle r="22" fill="#0d1117" stroke="#00D9FF" stroke-width="1.5"/>
+        <text y="4" font-family="JetBrains Mono" font-size="9" font-weight="600" fill="#00D9FF" text-anchor="middle" letter-spacing=".5">WEB</text>
+      </g>
+    </g>
+    <g class="drift2">
+      <g transform="translate(1090, 100)">
+        <circle r="22" fill="#0d1117" stroke="#a78bfa" stroke-width="1.5"/>
+        <text y="4" font-family="JetBrains Mono" font-size="9" font-weight="600" fill="#a78bfa" text-anchor="middle" letter-spacing=".5">AI</text>
+      </g>
+    </g>
+    <g class="drift">
+      <g transform="translate(850, 200)">
+        <circle r="20" fill="#0d1117" stroke="#fcd34d" stroke-width="1.5"/>
+        <text y="4" font-family="JetBrains Mono" font-size="9" font-weight="600" fill="#fcd34d" text-anchor="middle" letter-spacing=".5">FTTH</text>
+      </g>
+    </g>
+    <g class="drift2">
+      <g transform="translate(1110, 200)">
+        <circle r="22" fill="#0d1117" stroke="#22c55e" stroke-width="1.5"/>
+        <text y="4" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#22c55e" text-anchor="middle" letter-spacing=".5">DEVOPS</text>
+      </g>
+    </g>
+    <g class="drift">
+      <g transform="translate(920, 270)">
+        <circle r="20" fill="#0d1117" stroke="#f87171" stroke-width="1.5"/>
+        <text y="4" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#f87171" text-anchor="middle" letter-spacing=".5">FLUTTER</text>
+      </g>
+    </g>
+    <g class="drift2">
+      <g transform="translate(1040, 270)">
+        <circle r="20" fill="#0d1117" stroke="#06b6d4" stroke-width="1.5"/>
+        <text y="4" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#06b6d4" text-anchor="middle" letter-spacing=".5">PYTHON</text>
+      </g>
+    </g>
+
+    <!-- Center hub -->
+    <g transform="translate(980, 170)" filter="url(#soft-glow)">
+      <circle r="48" fill="url(#glow-cyan)" class="shim"/>
+      <circle r="36" fill="#0a0f1c" stroke="#00D9FF" stroke-width="2"/>
+      <circle r="32" fill="none" stroke="#00D9FF" stroke-width="1" opacity=".4"/>
+      <text y="8" font-family="Inter, sans-serif" font-size="22" font-weight="800" fill="#00D9FF" text-anchor="middle" letter-spacing="-1">RK</text>
+    </g>
+
+    <!-- Decorative corner brackets -->
+    <g stroke="#1f2937" stroke-width="1.5" fill="none" opacity=".7">
+      <path d="M 16 16 L 16 36 M 16 16 L 36 16"/>
+      <path d="M 1184 16 L 1184 36 M 1184 16 L 1164 16"/>
+      <path d="M 16 324 L 16 304 M 16 324 L 36 324"/>
+      <path d="M 1184 324 L 1184 304 M 1184 324 L 1164 324"/>
+    </g>
+
+    <!-- Outer border -->
+    <rect width="1200" height="340" rx="20" fill="none" stroke="#1f2937" stroke-width="1" opacity=".6"/>
   </g>
-
-  <!-- Floating code cards (left) -->
-  <g class="f1">
-    <rect x="22" y="30" width="148" height="44" rx="8" fill="#1e1b4b" opacity=".92" stroke="#7C3AED" stroke-width="1"/>
-    <text font-family="monospace" font-size="10.5" fill="#a78bfa" x="34" y="49" font-weight="600">const dev = {</text>
-    <text font-family="monospace" font-size="10"   fill="#67e8f9" x="34" y="65">  stack: "React"</text>
-  </g>
-  <g class="f2">
-    <rect x="14" y="108" width="162" height="44" rx="8" fill="#0c1a2e" opacity=".92" stroke="#06B6D4" stroke-width="1"/>
-    <text font-family="monospace" font-size="10" fill="#67e8f9" x="26" y="127" font-weight="600">async build() {</text>
-    <text font-family="monospace" font-size="10" fill="#a78bfa" x="26" y="143">  await deploy()</text>
-  </g>
-  <g class="f3">
-    <rect x="22" y="190" width="150" height="44" rx="8" fill="#1a1200" opacity=".92" stroke="#F59E0B" stroke-width="1"/>
-    <text font-family="monospace" font-size="10" fill="#fcd34d" x="34" y="209" font-weight="600">// 7+ años coding</text>
-    <text font-family="monospace" font-size="10" fill="#d97706" x="34" y="225">// La Pampa 🇦🇷</text>
-  </g>
-
-  <!-- Experience pill (bottom-right) -->
-  <g class="pk">
-    <rect x="800" y="230" width="88" height="42" rx="21" fill="#0a1628" stroke="#06B6D4" stroke-width="1.2"/>
-    <text font-family="monospace" font-size="12" fill="#67e8f9" x="844" y="247" text-anchor="middle" font-weight="700">7+ yrs</text>
-    <text font-family="monospace" font-size="9"  fill="#7dd3fc" x="844" y="263" text-anchor="middle">experiencia</text>
-  </g>
-
-  <!-- === MAIN TEXT BLOCK === -->
-  <!-- Location pill -->
-  <g class="sl">
-    <rect x="200" y="38" width="170" height="26" rx="13" fill="#1e0a3c" stroke="#7C3AED" stroke-width=".9" opacity=".95"/>
-    <text font-family="monospace" font-size="11" fill="#c4b5fd" x="216" y="55">🇦🇷  Eduardo Castex</text>
-  </g>
-
-  <!-- Name -->
-  <text font-family="Georgia,serif" font-size="62" fill="#f8fafc" x="200" y="148" font-weight="700" letter-spacing="-1.5" class="sl2">René Kuhm</text>
-
-  <!-- Accent underline -->
-  <rect x="200" y="155" width="248" height="3.5" rx="1.5" fill="url(#g1)" class="sl2"/>
-
-  <!-- Role -->
-  <text font-family="monospace" font-size="15" fill="#94a3b8" x="202" y="188" class="sl3">Full Stack · FTTH · OS Builder · AI Automation</text>
-
-  <!-- Blinking cursor -->
-  <rect x="635" y="172" width="2.5" height="20" rx="1" fill="#7C3AED" class="cur"/>
-
-  <!-- Tech chips -->
-  <g class="pp">
-    <rect x="200" y="208" width="82" height="24" rx="12" fill="#1e1b4b" stroke="#7C3AED" stroke-width="1.2"/>
-    <text font-family="monospace" font-size="10.5" fill="#a78bfa" x="241" y="224" text-anchor="middle" font-weight="600">React</text>
-  </g>
-  <g class="pp2">
-    <rect x="292" y="208" width="82" height="24" rx="12" fill="#0c1a2e" stroke="#06B6D4" stroke-width="1.2"/>
-    <text font-family="monospace" font-size="10.5" fill="#67e8f9" x="333" y="224" text-anchor="middle" font-weight="600">Next.js</text>
-  </g>
-  <g class="pp3">
-    <rect x="384" y="208" width="88" height="24" rx="12" fill="#1a1200" stroke="#F59E0B" stroke-width="1.2"/>
-    <text font-family="monospace" font-size="10.5" fill="#fcd34d" x="428" y="224" text-anchor="middle" font-weight="600">Linux/OS</text>
-  </g>
-
-  <!-- CTA button -->
-  <g class="pp3">
-    <rect x="200" y="252" width="180" height="40" rx="20" fill="#7C3AED"/>
-    <rect x="200" y="252" width="180" height="40" rx="20" fill="none" stroke="#a78bfa" stroke-width=".9" opacity=".6"/>
-    <text font-family="monospace" font-size="12" fill="#fff" x="290" y="277" text-anchor="middle" font-weight="700">tecnodespegue.com</text>
-  </g>
-
-  <!-- Corner accents -->
-  <path d="M872 12 L892 12 L892 32" fill="none" stroke="#7C3AED" stroke-width="2" opacity=".5" stroke-linecap="round"/>
-  <path d="M8  288 L8  308 L28 308" fill="none" stroke="#06B6D4" stroke-width="2" opacity=".5" stroke-linecap="round"/>
-
-</g>
 </svg>
