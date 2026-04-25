@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer+%7C+AI+Agent+Builder+%7C+FTTH+Specialist;7%2B+a%C3%B1os+construyendo+productos%2C+sistemas+y+automatizaciones" alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=00D9FF&center=true&vCenter=true&width=640&lines=Programador+Full-Stack+%7C+AI+Agent+Builder+%7C+FTTH+Consultant;Construyendo+productos+web%2C+sistemas+y+automatizaciones+con+IA" alt="Tagline" />
 </p>
 
 <br/>
 
 ## Sobre mí
 
-Soy un ingeniero full-stack con **7+ años** diseñando productos web, sistemas a medida y automatizaciones con IA. Hoy mi foco está en **agentes autónomos** con LangChain/LangGraph e integraciones de LLMs en productos reales.
+Soy **programador full-stack** dedicado a construir productos web, sistemas a medida y automatizaciones con IA. Hoy mi foco está en **agentes autónomos** con LangChain/LangGraph e integraciones de LLMs en productos reales.
 
-En paralelo lidero infraestructura **FTTH** en COSPEC Ltd. y opero **TecnoDespegue** — agencia y plataforma de contenido técnico para developers en LATAM.
+Detrás tengo **10 años en infraestructura FTTH** en COSPEC Ltd. (servicio que sigo ofreciendo como consultor) y hoy opero **TecnoDespegue** — agencia y plataforma de contenido técnico para developers en LATAM.
 
 📍 Eduardo Castex, La Pampa 🇦🇷 · 🌐 Trabajando con equipos en cualquier zona horaria
 

@@ -1,4 +1,4 @@
-<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="René Kuhm — Senior Full-Stack Engineer">
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="René Kuhm — Full-Stack Developer">
   <defs>
     <!-- Background -->
     <radialGradient id="bg" cx="25%" cy="40%" r="90%">
@@ -129,11 +129,11 @@
     <!-- Role line -->
     <g class="reveal-4">
       <text x="60" y="218" font-family="JetBrains Mono, ui-monospace, monospace" font-size="16" fill="#c9d1d9" letter-spacing="0.3">
-        <tspan fill="#00D9FF">▸</tspan> Senior Full-Stack Engineer
+        <tspan fill="#00D9FF">▸</tspan> Programador Full-Stack
         <tspan fill="#374151"> · </tspan>
         <tspan fill="#a78bfa">AI Agent Builder</tspan>
         <tspan fill="#374151"> · </tspan>
-        <tspan fill="#fcd34d">FTTH Specialist</tspan>
+        <tspan fill="#fcd34d">FTTH Consultant</tspan>
       </text>
     </g>
 
@@ -163,7 +163,7 @@
         <tspan> rk </tspan>
         <tspan fill="#00D9FF">--status</tspan>
         <tspan> </tspan>
-        <tspan fill="#9ca3af">→ shipping AI agents · 7+ years · open to collaborations</tspan>
+        <tspan fill="#9ca3af">→ shipping AI agents · ex-COSPEC (10y FTTH) · open to collaborations</tspan>
       </text>
     </g>
 
