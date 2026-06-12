@@ -47,7 +47,7 @@ Detrás tengo **10 años en infraestructura FTTH** en COSPEC Ltd. (servicio que 
       <td>Detecta juegos en Windows y aplica perfiles de optimización reversibles por proceso.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Rene-Kuhm/Gestor-de-Contrase-as"><b>Vaulta</b></a></td>
+      <td><a href="https://github.com/Rene-Kuhm/vaulta"><b>Vaulta</b></a></td>
       <td>Flutter · Dart · AES-256</td>
       <td>Gestor de contraseñas multi-plataforma con biometría y Keychain/Keystore nativo.</td>
     </tr>
