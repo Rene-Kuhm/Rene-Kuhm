@@ -1,34 +1,39 @@
 # 🏆 GitHub Achievements Tracker
 
-Este archivo rastrea los logros conseguidos en este repositorio.
+Tracking file for GitHub profile achievements earned across all of
+[Rene-Kuhm](https://github.com/Rene-Kuhm)'s repositories. Updated as
+new badges unlock on the profile sidebar.
 
-## Logros Desbloqueados
+## Why this file exists
 
-- 🎲 **YOLO** - 2026-01-06: Merged PR without code review
-- 🦈 **Pull Shark** - 2026-01-06: Second merged pull request
-- 👥 **Pair Extraordinaire** - 2026-01-06: Collaborative work with Claude AI
-## Enhancement 1 - 2026-01-06
+GitHub only renders the most recent achievements on the profile
+sidebar and does not keep a public history. This file is a personal
+log so I can remember which ones I already have and which ones I'm
+working toward.
 
-### Changes
-- Improved repository documentation
-- Added more context to achievements tracking
+## Unlocked
 
-This is enhancement #1 to reach Pull Shark Bronze badge (16 PRs).
+| Badge | Tier | Date | Notes |
+|---|---|---|---|
+| 🎲 YOLO | one-time | — | Merged a PR without code review |
+| 🦈 Pull Shark | Bronze | — | 16+ merged pull requests |
+| 👥 Pair Extraordinaire | Base | — | Co-authored commit on a merged PR |
 
-## Enhancement 2 - 2026-01-06
+> Dates are intentionally left empty here — the authoritative source
+> is the Achievements tab on the GitHub profile:
+> https://github.com/Rene-Kuhm?tab=achievements
 
-### Changes
-- Improved repository documentation
-- Added more context to achievements tracking
+## Working toward
 
-This is enhancement #2 to reach Pull Shark Bronze badge (16 PRs).
+- ⚡ **Quickdraw** — close an issue or PR within 5 minutes of opening.
+- 🧠 **Galaxy Brain (Base)** — 2 accepted answers in Discussions.
+- 🦈 **Pull Shark (Silver)** — 128 merged PRs.
+- 🤝 **Pair Extraordinaire (Bronze)** — 10 co-authored commits on merged PRs.
+- ⭐ **Starstruck (Base)** — one repository with 16+ stars.
 
-## Enhancement 3 - 2026-01-06
+## Repository hygiene rules
 
-### Changes
-- Improved repository documentation
-- Added more context to achievements tracking
-
-This is enhancement #3 to reach Pull Shark Bronze badge (16 PRs).
-
-- 👥 **Pair Extraordinaire** (Fixed) - 2026-01-06: Valid co-author with GitHub account
+To keep the achievements counter honest, contributions logged here
+must come from real, useful work — never placeholder PRs with the
+sole purpose of inflating counters. Every merged PR should improve
+the repository it lands in.
