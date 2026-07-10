@@ -14,7 +14,7 @@
   <a href="https://github.com/Rene-Kuhm/flow-engineering"><img src="https://img.shields.io/badge/Proyecto_principal-flow--engineering-00D9FF?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Proyecto principal: flow-engineering" /></a>
   <a href="https://tecnodespegue.com"><img src="https://img.shields.io/badge/Web_en_produccion-TecnoDespegue-7C3AED?style=flat-square&logo=astro&logoColor=white&labelColor=0d1117" alt="TecnoDespegue" /></a>
   <a href="https://www.linkedin.com/in/rene-kuhm"><img src="https://img.shields.io/badge/LinkedIn-Rene_Kuhm-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="mailto:contacto@tdpblog.com.ar"><img src="https://img.shields.io/badge/Contacto-email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="mailto:renekuhm2@gmail.com"><img src="https://img.shields.io/badge/Contacto-email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 </p>
 
 ---
@@ -120,7 +120,7 @@ Estoy en Eduardo Castex, La Pampa, Argentina, y colaboro de forma remota.
 <p align="center">
   <a href="https://tecnodespegue.com"><img src="https://img.shields.io/badge/Ver_trabajo_y_servicios-tecnodespegue.com-7C3AED?style=for-the-badge&logo=astro&logoColor=white" alt="Ver TecnoDespegue" /></a>
   <a href="https://www.linkedin.com/in/rene-kuhm"><img src="https://img.shields.io/badge/Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar por LinkedIn" /></a>
-  <a href="mailto:contacto@tdpblog.com.ar"><img src="https://img.shields.io/badge/Escribir-contacto@tdpblog.com.ar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" /></a>
+  <a href="mailto:renekuhm2@gmail.com"><img src="https://img.shields.io/badge/Escribir-renekuhm2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" /></a>
 </p>
 
 <p align="center">
