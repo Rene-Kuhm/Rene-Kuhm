@@ -33,7 +33,7 @@ The web and mobile work sits on top of that foundation, not instead of it.
 
 Userspace drivers for PC hardware with no official support: AIO cooler displays, Gigabyte RGB Fusion (ITE8297), USB lighting controllers. Includes the complete protocol analysis, so the findings are useful even without the code. Ships systemd units, a macOS LaunchAgent, PKG/DMG installers and Nix flakes.
 
-### [redragon-streamdeck-linux](https://github.com/Rene-Kuhm/redragon-streamdeck-linux-)
+### [redragon-streamdeck-linux](https://github.com/Rene-Kuhm/redragon-streamdeck-linux)
 `Rust` · `Tauri` · `systemd`
 
 Open-source driver and web panel for the Redragon SS-550 Stream Deck on Linux. Multi-page layouts, custom icons, autostart, and installers for Arch, Ubuntu and Fedora — for a device the vendor never supported outside Windows.
@@ -58,10 +58,10 @@ Domain-expert AI agent for Argentine kinesiology: RAG over a curated knowledge b
 
 Encrypted, offline-first password manager with biometric unlock, autofill and signed updates.
 
-### [infra](https://github.com/Rene-Kuhm/infra)
-`Nix`
+### [claude-code-enterprise-config](https://github.com/Rene-Kuhm/claude-code-enterprise-config)
+`Shell` · `Agent configuration`
 
-Reproducible NixOS monorepo for my own server. Declarative, rebuildable from scratch, no snowflake configuration.
+Enterprise Claude Code setup: 8 specialised agents, 20 invocable skills, 7 context rules, 8 automated hooks and 19 MCP server integrations, with an installer.
 
 ---
 
