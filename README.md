@@ -77,6 +77,10 @@ Enterprise Claude Code setup: 8 specialised agents, 20 invocable skills, 7 conte
 
 ---
 
+![Activity over the last twelve months](assets/stats.svg)
+
+---
+
 ## Beyond the code
 
 - **[TecnoDespegue](https://tecnodespegue.com)** — my agency: internal software and process automation for LATAM clients
