@@ -2,7 +2,7 @@
 
 # René Kuhm
 
-**I reverse-engineer hardware protocols, build tooling for AI coding agents, and run ISP infrastructure.**
+**I build evidence-driven systems at the intersection of AI agents, hardware, and ISP infrastructure.**
 
 Based in Argentina (Córdoba / Eduardo Castex, La Pampa) · Open to remote work
 
@@ -42,6 +42,11 @@ Open-source driver and web panel for the Redragon SS-550 Stream Deck on Linux. M
 `Python` · `MCP` · `CLI`
 
 Spec-driven orchestration for AI-assisted delivery: persistent context, verification workflows, CLI tooling and an optional read-only MCP server. Built to stop agents from drifting halfway through a feature.
+
+### [FTTH-Copilot](https://github.com/Rene-Kuhm/FTTH-Copilot)
+`TypeScript` · `NOC / SOC` · `SNMP` · `AIOps`
+
+AI-powered operations platform for FTTH ISPs: multi-vendor OLT telemetry, an Organic Diagnostic Router, predictive diagnostics and evidence-gated incident workflows. **AI when needed. Deterministic when possible. Abstain when evidence is insufficient.**
 
 ### [opencode-productivity-suite](https://github.com/Rene-Kuhm/opencode-productivity-suite)
 `PowerShell` · `Agent configuration`
