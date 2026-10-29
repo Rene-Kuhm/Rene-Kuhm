@@ -97,6 +97,6 @@ Enterprise Claude Code setup: 8 specialised agents, 20 invocable skills, 7 conte
 
 Open to remote roles and contract work — full-stack development, developer tooling, Linux/DevOps, or hybrid engineering and infrastructure positions. Also available on-site in Córdoba and La Pampa.
 
-[LinkedIn](https://www.linkedin.com/in/rene-kuhm-fullstack/) · [tecnodespegue.com](https://tecnodespegue.com)
+[LinkedIn](https://www.linkedin.com/in/rene-kuhm-fullstack/) · [tecnodespegue.com](https://tecnodespegue.com) · Resume: [English](cv/Rene_Kuhm_Resume_EN.pdf) · [Español](cv/Rene_Kuhm_CV.pdf)
 
 <sub>Interested in how I work? See <a href="COLLABORATION.md">COLLABORATION.md</a>.</sub>
